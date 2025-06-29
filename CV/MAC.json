@@ -77,7 +77,12 @@
           {
             "name": "Front-end Developer | UX/UI Designer",
             "startDate": "2024-08-01",
-            "finishDate": "2025-03-01"
+            "finishDate": "2025-03-01",
+            "challenges": [
+              {
+                "description": "Front-end Developer | UX/UI designer collaborating closely with the technical director on the design and development of a new version of the digital newspaper."
+              }
+            ]
           }
         ]
       },

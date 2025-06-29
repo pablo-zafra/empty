@@ -1,0 +1,652 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "Zafra",
+      "title": "Front-end developer | UX-UI Designer",
+      "description": "I am a Front-End developer whose career began in visual design. I quickly specialized in web layout and the development of rich media display advertising. This experience provides me with a solid visual criterion and the ability to add significant added value to every project. \n\nA few years later, I fully specialized in web development, working on the configuration and maintenance of various CMS, as well as directly with HTML, CSS, and JavaScript.\n\nIn recent years, I've gained training and experience in developing end-to-end projects with React.js, Next.js, and several libraries that complement their use.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/5acc73cf-ad86-4743-a27c-96f582e662e7_yo-camisa-2022-profi.jpg",
+        "alt": "yo-camisa-2022-profile.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablo-zafra/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance Developer"
+        },
+        "roles": [
+          {
+            "name": "Front-end Developer | UX/UI Designer",
+            "startDate": "2025-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "101tv"
+        },
+        "roles": [
+          {
+            "name": "Front-end Developer | UX/UI Designer",
+            "startDate": "2024-08-01",
+            "finishDate": "2025-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SAMY Alliance"
+        },
+        "roles": [
+          {
+            "name": "Head of Design | Front-end Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "Video Edition | Front End | Visual Design | Motion graphics"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cheil Spain"
+        },
+        "roles": [
+          {
+            "name": "Visual Design | Front-end Developer",
+            "startDate": "2020-12-01",
+            "finishDate": "2021-09-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PRISA Brand Solutions"
+        },
+        "roles": [
+          {
+            "name": "Visual Design | Front-end Developer",
+            "startDate": "2012-09-01",
+            "finishDate": "2020-12-01"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "What your favorite video game says about you? (Spanish)",
+          "description": "A personal web portfolio showcasing my professional profile with numerous visual elements that react to user interaction. It's developed in Next.js, integrating 3D objects via Three.js and scroll-triggered animations using GSAP and Lenis.",
+          "URL": "https://loquetuvideojuegofavoritodicedeti.pablozafra.dev/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/582bb446-0620-4bed-8f6b-3cb7d1c83772_result2.jpg",
+            "alt": "result2.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-06-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Portfolio",
+          "description": "A personal web portfolio showcasing my professional profile with numerous visual elements that react to user interaction. It's developed in Next.js, integrating 3D objects via Three.js and scroll-triggered animations using GSAP and Lenis.",
+          "URL": "https://www.pablozafra.dev/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/c24aff1d-a3cc-4c32-be49-b35487720d4c_og-main-img.jpg",
+            "alt": "og-main-img.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-05-01",
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Three.js",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-06-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's Degree in Audiovisual Communication",
+        "startDate": "2008-01-01",
+        "institution": {
+          "name": "University of Málaga",
+          "description": "Faculty of Communication Sciences at the University of Málaga.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/b2c54844-fdd4-49cc-9a29-32a7eba4b1e0_universidad_de_malag.jpg",
+            "alt": "Universidad_de_Málaga.jpg"
+          }
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "GIT + GitHub",
+        "startDate": "2023-12-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Version control system, Wikis, Projects, GitHub Pages... (12 HOURS)\n",
+          "URL": "https://www.udemy.com/certificate/UC-2dfd5f5c-8167-4b7b-9a17-4068b4bcb633/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/ead49dd2-249e-4674-badb-b907e015a5af_unnamed.png",
+            "alt": "unnamed.png"
+          }
+        },
+        "finishDate": "2024-02-01",
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "Next.js",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "SSR, SSG, CSR, ISR, Middlewares, Dynamic routes, Next API, Next Auth, Material UI, despliegues, Cookies and more. (36,5 HOURS)",
+          "URL": "https://www.udemy.com/certificate/UC-1e1023c3-08b2-4994-b3e3-e8a28ce6244e/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/0dda9b72-a005-4b89-a801-0afb929df10a_unnamed.png",
+            "alt": "unnamed.png"
+          }
+        },
+        "finishDate": "2025-06-01",
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          },
+          {
+            "name": "Prisma",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": true,
+        "name": "REACT (HOOKS & MERN)",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Context API, MERN, Hooks, Firestore, JWT, Testing, Autentication, Builds, CRUD, Logs, MUI, Multiple Routers... (54 HOURS)",
+          "URL": "https://www.udemy.com/certificate/UC-3cea1336-7a1e-45a3-b8bc-0b320ffbab4b/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/8156ed9c-a295-48df-8729-f1860e0e7a97_unnamed.png",
+            "alt": "unnamed.png"
+          }
+        },
+        "finishDate": "2024-06-01",
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud Firestore",
+            "type": "technology"
+          },
+          {
+            "name": "Google Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "Hooks",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "MERN Stack",
+            "type": "technology"
+          },
+          {
+            "name": "MaterialUI",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NPM",
+            "type": "technology"
+          },
+          {
+            "name": "Postman",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Yarn",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Web programming",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "FuturSkill",
+          "description": "HTML5, CSS and JavaScript\n(80 HOURS)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/9abcd73a-f850-48ac-9db9-fa18c1b8ebe8_images.jpg",
+            "alt": "images.jpg"
+          }
+        },
+        "finishDate": "2013-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de presentación",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Inteligencia emocional",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pablo-zafra/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "pablozafraes@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "617707343",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Figma",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "MaterialUI",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Postman",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "Three.js",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "WordPress",
+        "type": "technology"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Portfolio"
+      },
+      {
+        "name": "What your favorite video game says about you? (Spanish)"
+      }
+    ]
+  }
+}

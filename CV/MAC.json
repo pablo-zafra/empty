@@ -67,7 +67,11 @@
       },
       {
         "organization": {
-          "name": "101tv"
+          "name": "101tv",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/50b0230a-a41d-4758-8402-281f8f2c4470_101.jpg",
+            "alt": "101.jpg"
+          }
         },
         "roles": [
           {

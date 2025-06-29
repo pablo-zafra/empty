@@ -138,7 +138,12 @@
           {
             "name": "Visual Design | Front-end Developer",
             "startDate": "2012-09-01",
-            "finishDate": "2020-12-01"
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Visual designer | UI Developer in the marketing department, specializing in the development of rich media display ads, mediakits, microsites, and landing pages."
+              }
+            ]
           }
         ]
       }

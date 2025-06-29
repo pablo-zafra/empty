@@ -32,12 +32,36 @@
     "jobs": [
       {
         "organization": {
-          "name": "Freelance Developer"
+          "name": "Freelance Developer",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/51f18fcb-389c-44e6-ba47-058028548692_yo-camisa-2022-profi.jpg",
+            "alt": "yo-camisa-2022-profile.jpg"
+          },
+          "URL": "https://pablozafra.dev"
         },
         "roles": [
           {
             "name": "Front-end Developer | UX/UI Designer",
-            "startDate": "2025-03-01"
+            "startDate": "2024-09-01",
+            "challenges": [
+              {
+                "description": "I work on various individual projects, primarily focusing on corporate websites and landing pages."
+              }
+            ],
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },

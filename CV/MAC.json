@@ -105,13 +105,23 @@
       },
       {
         "organization": {
-          "name": "Cheil Spain"
+          "name": "Cheil Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/9b5fd3fc-9ef1-4632-b77a-d11768bf5171_images.png",
+            "alt": "images.png"
+          },
+          "URL": "https://www.cheil.com/es/"
         },
         "roles": [
           {
             "name": "Visual Design | Front-end Developer",
             "startDate": "2020-12-01",
-            "finishDate": "2021-09-01"
+            "finishDate": "2021-09-01",
+            "challenges": [
+              {
+                "description": "Video Edition | Front End | Visual Design | Motion graphics"
+              }
+            ]
           }
         ]
       },

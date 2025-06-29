@@ -127,7 +127,12 @@
       },
       {
         "organization": {
-          "name": "PRISA Brand Solutions"
+          "name": "PRISA Brand Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/06/29/1ff452ff-df38-463b-b87e-0caad3977452_prisa-logo-png_seekl.png",
+            "alt": "prisa-logo-png_seeklogo-336067.png"
+          },
+          "URL": "https://www.prisa.com/es"
         },
         "roles": [
           {

@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/pablo-zafra/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/pablo-zafra"
       }
     ]
   },
@@ -572,6 +576,10 @@
         {
           "URL": "https://www.linkedin.com/in/pablo-zafra/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/pablo-zafra",
+          "type": "github"
         }
       ],
       "contactMails": [

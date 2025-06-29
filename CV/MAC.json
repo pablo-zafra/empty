@@ -556,13 +556,13 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
+          "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Autonomía en el aprendizaje",
+          "name": "Proactividad",
           "type": "practice"
         }
       },

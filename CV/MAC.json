@@ -164,6 +164,43 @@
     "projects": [
       {
         "details": {
+          "name": "When text comes alive on scroll",
+          "description": "A new npm package for React, react-scroll-text-highlighter. This component is designed and developed looking to add a touch of interactivity and style to their web pages.\n\n",
+          "URL": "https://www.pablozafra.dev/when-text-comes-alive-on-scroll",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/08/21/9664fb90-e6da-4573-9730-035376520d1b_when-text-comes-aliv.gif",
+            "alt": "when-text-comes-alive-on-scroll.gif"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-06-01",
+            "competences": [
+              {
+                "name": "NPM",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Styled Components",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2025-07-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "What your favorite video game says about you? (Spanish)",
           "description": "A personal web portfolio showcasing my professional profile with numerous visual elements that react to user interaction. It's developed in Next.js, integrating 3D objects via Three.js and scroll-triggered animations using GSAP and Lenis.",
           "URL": "https://loquetuvideojuegofavoritodicedeti.pablozafra.dev/",
@@ -716,6 +753,9 @@
       },
       {
         "name": "What your favorite video game says about you? (Spanish)"
+      },
+      {
+        "name": "When text comes alive on scroll"
       }
     ]
   }
